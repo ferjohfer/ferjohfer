@@ -1,5 +1,5 @@
 ### Oi, eu sou Fernanda Gomes
-<div align="right">
+<div align="center">
   <a href="https://github.com/ferjohfer">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ferjohfer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="204em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferjohfer&layout=compact&langs_count=7&theme=dracula"/>
@@ -11,7 +11,7 @@
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/807253035603460118/934988080060989440/disenchantment-clap.gif?width=676&height=676">
+  <img align="left" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/807253035603460118/934988080060989440/disenchantment-clap.gif?width=676&height=676">
 </div>
   
   ##
