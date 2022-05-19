@@ -1,5 +1,5 @@
 ### Oi, eu sou Fernanda Gomes
-<div align="center">
+<div align="center" position="flex">
   <a href="https://github.com/ferjohfer">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ferjohfer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="204em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferjohfer&layout=compact&langs_count=7&theme=dracula"/>
