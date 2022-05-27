@@ -1,18 +1,33 @@
-#### Oi, eu sou Fernanda Gomes
-<div align="center">
-  <a href="https://github.com/ferjohfer">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ferjohfer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="204em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferjohfer&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+#### Hey, I'm Fernanda Gomes...
+##
+> MY ACTUALLY SKILLS:
+<div style="display: inline_block">
+
+  </div>
+    <div style="display: inline_block">
+      <img  alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img  alt="Fernanda-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img  alt="Fernanda-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img  alt="Fernanda-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img  alt="Fernanda-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+      <img  alt="Fernanda-mySql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+      <img  alt="Fernanda-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+
   
-<div style="display: inline_block"><br>
-  <img align="center" alt="Fer-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fer-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="right" alt="Fer-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/807253035603460118/934988080060989440/disenchantment-clap.gif?width=676&height=676">
-</div>
+  ##
+> I'M LEARNING:
+  <div style="display: inline_block">
+
+  </div>
+  <div style="display: inline_block">
+    <img align="center" alt="Fernanda-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Fernanda-nodeJs" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Fernanda-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Fernanda-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Fernanda-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+  </div><br>
   
   ##
 
