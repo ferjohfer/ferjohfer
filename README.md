@@ -1,4 +1,4 @@
-#### Hey, I'm Fernanda Gomes,
+# Hey, I'm Fernanda Gomes,
 Student in Systems Analysis and Development at the University of the State of Pará (UEPA), in Brazil. I believe in my efforts and plan my future every day. Use darkmode, because only in darkness we can see the stars.
 :blue_heart:
 ##
